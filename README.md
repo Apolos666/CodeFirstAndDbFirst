@@ -1,4 +1,4 @@
-# @octocat :+1: Code First :shipit:
+# :+1: Code First :shipit:
 ![CodeFirst1](https://github.com/Apolos666/CodeFirstAndDbFirst/assets/65549968/0de665d7-d580-49c0-8b02-8ae372bcb2a3)
 ![CodeFirst2](https://github.com/Apolos666/CodeFirstAndDbFirst/assets/65549968/0f747b10-7552-48cc-b37c-42ab6871fb89)
 :shipit: Result
